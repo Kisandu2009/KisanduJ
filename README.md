@@ -1,2 +1,2 @@
-# KisanduJ
+# kisanduj
 A Website for me
